@@ -1,0 +1,74 @@
+.profile-container {
+    background: rgb(255, 255, 255);
+    border-radius: 20px;
+    margin: 30px auto;
+    min-height: 600px;
+    max-width: 600px;
+    text-align: center;
+}
+
+.profile-container img {
+    width: 100%;
+    height: auto;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    opacity: 0.4;
+
+}
+
+.profile-circle {
+    background: gray;
+    border-radius: 110px;
+    display: block;
+    height: 140px;
+    width: 140px;
+    left: 230px;
+    top: -73px;
+    position: relative;
+    text-align: center;
+    font-size: 90px;
+}
+
+.lower-half {
+    font-size: 23px;
+    text-align: center;
+    padding: 12px;
+}
+
+.lower-half input {
+    width: 50%;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+.lower-half p {
+    display: inline-block;
+    margin-block: 3px;
+}
+
+.update-button {
+    border-style: none;
+    border: 2px solid white;
+    border-radius: 15px;
+    background: rgba(0, 0, 0, 0.658);
+    padding: 10px 20px;
+    color: white;
+    margin: 15px;
+}
+
+.update-button:hover,
+.logout-button:hover {
+    background: rgba(255, 255, 255, 0.781);
+    color: black;
+    border-color: black;
+}
+
+.logout-button {
+    border-style: none;
+    border: 2px solid white;
+    border-radius: 15px;
+    background: rgb(238, 9, 9);
+    padding: 10px 20px;
+    color: white;
+    margin: 15px;
+}

@@ -1,0 +1,19 @@
+.about-us-container {
+    display: block;
+    margin-block: 40px;
+    max-width: 60%;
+    background: white;
+    border-radius: 15px;
+    padding: 20px;
+    margin-inline: auto;
+    text-align: center;
+}
+
+.title {
+    font-size: 48px;
+    padding: 12px;
+}
+
+.about-us-text {
+    padding: 12px;
+}

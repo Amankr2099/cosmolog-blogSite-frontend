@@ -1,0 +1,33 @@
+.logo {
+    display: block;
+    width: 100%;
+    background-color: rgb(190, 184, 184);
+    border-radius: 10px;
+    text-align: center;
+    font-size: 55px;
+    font-family: 'Russo One', sans-serif;
+    padding-block: 30px;
+    margin-block: 15px;
+    margin-inline: 15px;
+}
+
+.nav-links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-block: 10px;
+    margin-inline: 15px;
+    padding-block: 8px;
+    border: 2px solid white;
+    border-radius: 10px;
+    width: 100%;
+}
+
+.link {
+    text-decoration: none;
+    color: #fff;
+}
+
+.link:hover {
+    color: rgb(139, 139, 139);
+}

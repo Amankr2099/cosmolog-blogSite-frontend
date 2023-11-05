@@ -1,0 +1,40 @@
+/* src/App.css */
+
+.signup {
+    background-color: rgba(255, 255, 255, 0.507);
+    padding: 20px;
+    margin-block: 150px;
+    border-radius: 30px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    max-width: 25%;
+    margin-inline: auto;
+    text-align: center;
+}
+
+.signup h1 {
+    color: #333;
+}
+
+.signup input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+}
+
+.signup button {
+    border-style: none;
+    border: 2px solid white;
+    border-radius: 5px;
+    background: rgba(0, 0, 0, 0.658);
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.signup button:hover {
+    background: rgba(255, 255, 255, 0.781);
+    color: black;
+    border-color: black;
+}

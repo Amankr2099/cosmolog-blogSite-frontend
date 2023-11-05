@@ -1,0 +1,17 @@
+.prologue {
+    display: block;
+    text-align: center;
+    color: white;
+    padding-block: 100px;
+    width: 60%;
+    margin: auto;
+}
+
+.prologue h1 {
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.prologue p {
+    font-size: 24px;
+}

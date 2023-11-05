@@ -1,0 +1,10 @@
+.post-cards {
+    display: block;
+    margin-block: 40px;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.541);
+    border-radius: 15px;
+    padding: 20px;
+    margin-inline: 30px;
+
+}

@@ -1,0 +1,29 @@
+.article-container {
+    background: white;
+    border-radius: 15px;
+    padding: 20px;
+    margin-block: 60px;
+    max-width: 1200px;
+    margin-inline: auto;
+}
+
+.article-container h1 {
+    font-size: 58px;
+    font-weight: 700;
+}
+
+.image-container {
+    width: 90%;
+    margin: auto;
+}
+
+.image-container img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.text {
+    margin-top: 15px;
+    padding: 13px;
+}
